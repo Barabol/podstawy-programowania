@@ -6,3 +6,5 @@ https://github.com/Barabol/podstawy-programowania/assets/105214028/ae711348-31f0
 
 I pamiętajcie
 ![nano_py_schizoposting](https://github.com/Barabol/podstawy-programowania/assets/105214028/139e90c1-2005-49a8-8b80-a983461c0351)
+# osoba co mnie zmusza do robienia tego ;_;
+![obraz](https://github.com/Barabol/podstawy-programowania/assets/105214028/e149718f-5faa-4ab9-8836-ae504e87ba4b)
