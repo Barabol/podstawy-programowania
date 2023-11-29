@@ -1,4 +1,3 @@
-// 1,3,6 do oddania
 #include <stdio.h>
 char *pobier(const char name[]) {
   static char input[] = {};
